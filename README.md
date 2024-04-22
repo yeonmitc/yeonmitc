@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
+<img align="right" src="https://github.com/yeonmitc/yeonmitc/blob/main/uploads/profile.png?raw=true" width="300"/>
 
 <h1> Welcome to visit Yeonmi tc <img src="https://github.com/yeonmitc/yeonmitc/blob/main/uploads/profile.png?raw=true" height="180"></h1>
 
