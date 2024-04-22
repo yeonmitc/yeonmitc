@@ -2,7 +2,7 @@
 
 <h1> Welcome to visit Yeonmi tc <img src="https://github.com/yeonmitc/yeonmitc/blob/main/uploads/profile.png?raw=true" height="180"></h1>
 <a href="http://pf.kakao.com/_vyHxhG/chat" target="_blank">![Static Badge](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=black)</a>
-[![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:yeonmitc@naver.com) 
+[![Static Badge](https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:yeonmitc@naver.com)![views]
 <br>
 
 <br />
