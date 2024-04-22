@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/01.jpg?raw=true" width="100"/>
 
-<h1> Welcome to visit Yeonmi tc <img src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" height="50"></h1>
+<h1> Welcome to visit Yeonmi tc</h1>
 
 
 ### 나를 소개하는 한 문장 
@@ -42,17 +42,17 @@
     <tr>
       <td>
         <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트1">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/uploads/profile.png?raw=true" width="300px" >
+          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
       </td>
       <td>
       <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트2">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/uploads/profile.png?raw=true" width="300px" >
+          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
       </td>
       <td>
        <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트3">
-          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/uploads/profile.png?raw=true" width="300px" >
+          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
       </td>
     </tr>
