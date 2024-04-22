@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/01.jpg?raw=true" width="20"/>
+<img align="right" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/01.jpg?raw=true" width="100"/>
 
 <h1> Welcome to visit Yeonmi tc <img src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" height="50"></h1>
 
