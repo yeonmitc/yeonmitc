@@ -1,7 +1,5 @@
 <img align="right" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/01.jpg?raw=true" width="100"/>
-
-<h1> Welcome to visit Yeonmi tc</h1>
-
+<br>
 
 ### 나를 소개하는 한 문장 
 나를 소개하는 3-5 문장. <br>
