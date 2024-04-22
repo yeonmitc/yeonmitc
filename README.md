@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/yeonmitc/yeonmitc/blob/main/uploads/profile.png?raw=true" width="300"/>
+<img align="right" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/01.jpg?raw=true" width="20"/>
 
-<h1> Welcome to visit Yeonmi tc <img src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" height="180"></h1>
+<h1> Welcome to visit Yeonmi tc <img src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" height="50"></h1>
 
 
 ### 나를 소개하는 한 문장 
